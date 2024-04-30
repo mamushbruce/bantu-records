@@ -792,7 +792,10 @@ p {
 /* End  Media Query For Desktop */
 
 
-
+.fa-trophy:before {
+    content: "\f091";
+    font-size: 3rem;
+}
 
 /*to top*/
 .notToTop {
